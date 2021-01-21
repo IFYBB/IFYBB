@@ -1,4 +1,4 @@
-# Привет, я Андрей Тим! <img src="https://raw.githubusercontent.com/gingermuffin/gingermuffin/main/assets/party_parrot.gif" width="30px">
+# Привет! Меня зовут Андрей. <img src="https://raw.githubusercontent.com/gingermuffin/gingermuffin/main/assets/party_parrot.gif" width="30px">
 Я начинающий специалист по Data Science, который любит машинное обучение, статистику и программирование.
 
 С ноября 2020'го прохожу обучение в Skillbox (https://go.skillbox.ru/profession/profession-data-scientist).
