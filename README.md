@@ -1,16 +1,13 @@
-### Hi there 👋
+# Привет, я Андрей Тим! <img src="https://raw.githubusercontent.com/gingermuffin/gingermuffin/main/assets/party_parrot.gif" width="30px">
+Я начинающий специалист по Data Science, который любит машинное обучение, статистику и программирование.
 
-<!--
-**IFYBB/IFYBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+С ноября 2020'го прохожу обучение в Skillbox (https://go.skillbox.ru/profession/profession-data-scientist).
 
-Here are some ideas to get you started:
+Открыт к предложениям о работе (как удаленной, так и в офисе) и хочу применить свои знания в боевом проекте!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\#opentowork
+
+## Как со мной связаться ✉️
+- [tim.a.89@list.ru](mailto:tim.a.89@list.ru) - пишите мне на Email, чтобы ваше сообщение точно не потерялось.
+
+<img src="https://raw.githubusercontent.com/gingermuffin/gingermuffin/main/assets/cattyping.gif">
